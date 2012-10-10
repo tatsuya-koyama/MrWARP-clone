@@ -5,8 +5,8 @@ It is designed for benchmarking of TK's game framework **tkFramework**.
 
 Mr.WARP is written in ActionScript3.0. Its architecture consists of **Adobe AIR**,
 **Starling Framework**, and tkFramework. It runs on cross-platform including
-web browser installed FlashPlayer11, ios devices (iPhone / iPod touch / iPad),
-and Android devices installed AIR runtime app.
+web browser with FlashPlayer11 installed, ios devices (iPhone / iPod touch / iPad),
+and Android devices with AIR runtime app installed.
 
 ## Build Steps
 
@@ -89,7 +89,7 @@ and Android devices installed AIR runtime app.
     $ sh build_flash11.sh
 
 * This command generates build/MrWARP.swf file.
-  You can play it on your web browser installed FlashPlayer11.
+  You can play it on your web browser with FlashPlayer11.
 
 * To debug it from terminal, execute this script:
 
