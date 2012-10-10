@@ -1,0 +1,5 @@
+<TextureAtlas imagePath='atlas_title.png'>
+  <SubTexture name='player_big' x='0' y='0' height='400.0' width='400.0'/>
+  <SubTexture name='left_arrow' x='401' y='0' height='170.0' width='256.0'/>
+  <SubTexture name='title_logo' x='0' y='401' height='100.0' width='320.0'/>
+</TextureAtlas>

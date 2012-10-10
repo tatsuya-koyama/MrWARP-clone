@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/3.3">
+    <id>com.tatsuya-koyama.MrWARP</id>
+    <versionNumber>0.0.1</versionNumber>
+    <filename>MrWARP</filename>
+    <initialWindow>
+        <content>build/MrWARP_forAIR.swf</content>
+        <aspectRatio>portrait</aspectRatio>  <!-- or landscape -->
+        <autoOrients>false</autoOrients>
+        <fullScreen>true</fullScreen>
+        <renderMode>direct</renderMode>
+        <depthAndStencil>false</depthAndStencil>
+    </initialWindow>
+    <supportedProfiles>mobileDevice</supportedProfiles>
+</application>

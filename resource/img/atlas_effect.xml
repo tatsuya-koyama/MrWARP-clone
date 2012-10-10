@@ -1,0 +1,12 @@
+<TextureAtlas imagePath='atlas_effect.png'>
+  <SubTexture name='snow_3' x='0' y='0' height='160.0' width='160.0'/>
+  <SubTexture name='snow_2' x='0' y='162' height='160.0' width='160.0'/>
+  <SubTexture name='snow_1' x='0' y='324' height='160.0' width='160.0'/>
+  <SubTexture name='plant_1' x='162' y='0' height='160.0' width='160.0'/>
+  <SubTexture name='plant_2' x='162' y='162' height='160.0' width='160.0'/>
+  <SubTexture name='plant_4' x='162' y='324' height='160.0' width='160.0'/>
+  <SubTexture name='plant_3' x='324' y='0' height='160.0' width='160.0'/>
+  <SubTexture name='cloud_2' x='486' y='0' height='120.0' width='205.0'/>
+  <SubTexture name='cloud_3' x='693' y='0' height='120.0' width='175.0'/>
+  <SubTexture name='cloud_1' x='486' y='122' height='120.0' width='175.0'/>
+</TextureAtlas>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/3.2" minimumPatchLevel="0">
+    <id>com.tatsuya-koyama.MrWARP</id>
+    <name>MrWARP</name>
+    <versionNumber>0.0.1</versionNumber>
+    <filename>Main</filename>
+    <supportedProfiles>mobileDevice</supportedProfiles>
+    <initialWindow>
+        <content>build/MrWARP_forAIR.swf</content>
+        <title>MrWARP</title>
+        <aspectRatio>portrait</aspectRatio>  <!-- or landscape -->
+        <autoOrients>false</autoOrients>
+        <fullScreen>true</fullScreen>
+        <renderMode>direct</renderMode>
+        <depthAndStencil>false</depthAndStencil>
+    </initialWindow>
+
+    <!-- iOS specific capabilities -->
+    <iPhone>
+        <!-- A list of plist key/value pairs to be added to the application Info.plist -->
+        <InfoAdditions>
+            <![CDATA[
+                <key>UIDeviceFamily</key>
+                <array>
+                    <string>1</string>
+                    <string>2</string>
+                </array>
+            ]]>
+        </InfoAdditions>
+    </iPhone>
+
+    <icon>
+        <image29x29>icons/Icon_29.png</image29x29>
+        <image57x57>icons/Icon_57.png</image57x57>
+        <image512x512>icons/Icon_512.png</image512x512>
+    </icon>
+</application>

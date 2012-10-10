@@ -1,0 +1,15 @@
+<TextureAtlas imagePath='atlas_02.png'>
+  <SubTexture name='tutorial_text_04' x='0' y='0' height='157.0' width='320.0'/>
+  <SubTexture name='menu_frame' x='0' y='159' height='240.0' width='160.0'/>
+  <SubTexture name='menu_frame_b' x='322' y='0' height='240.0' width='160.0'/>
+  <SubTexture name='tutorial_text_03' x='484' y='0' height='175.0' width='200.0'/>
+  <SubTexture name='tutorial_text_05' x='686' y='0' height='120.0' width='240.0'/>
+  <SubTexture name='tutorial_text_01' x='686' y='122' height='110.0' width='256.0'/>
+  <SubTexture name='tutorial_text_02' x='686' y='234' height='90.0' width='256.0'/>
+  <SubTexture name='button_frame' x='686' y='326' height='88.0' width='248.0'/>
+  <SubTexture name='button_frame_b' x='686' y='416' height='88.0' width='248.0'/>
+  <SubTexture name='upgrade_icon_1' x='0' y='401' height='100.0' width='100.0'/>
+  <SubTexture name='upgrade_icon_0' x='162' y='159' height='100.0' width='100.0'/>
+  <SubTexture name='upgrade_icon_2' x='162' y='261' height='100.0' width='100.0'/>
+  <SubTexture name='upgrade_icon_3' x='162' y='363' height='100.0' width='100.0'/>
+</TextureAtlas>

@@ -1,0 +1,24 @@
+<TextureAtlas imagePath='atlas_01.png'>
+  <SubTexture name='boss' x='0' y='0' height='256.0' width='256.0'/>
+  <SubTexture name='upgrade_gift' x='0' y='258' height='128.0' width='128.0'/>
+  <SubTexture name='star' x='258' y='0' height='128.0' width='128.0'/>
+  <SubTexture name='ray' x='258' y='130' height='128.0' width='128.0'/>
+  <SubTexture name='player_small' x='258' y='260' height='128.0' width='128.0'/>
+  <SubTexture name='player_noglow' x='388' y='0' height='128.0' width='128.0'/>
+  <SubTexture name='energy_gift' x='388' y='130' height='128.0' width='128.0'/>
+  <SubTexture name='particle' x='388' y='260' height='128.0' width='128.0'/>
+  <SubTexture name='enemy_bullet_big' x='0' y='388' height='64.0' width='64.0'/>
+  <SubTexture name='butterfly' x='130' y='258' height='64.0' width='64.0'/>
+  <SubTexture name='undo' x='130' y='324' height='64.0' width='64.0'/>
+  <SubTexture name='enemy_03' x='130' y='390' height='64.0' width='64.0'/>
+  <SubTexture name='touch_circle' x='258' y='390' height='64.0' width='64.0'/>
+  <SubTexture name='enemy_02' x='388' y='390' height='64.0' width='64.0'/>
+  <SubTexture name='enemy_01' x='518' y='0' height='64.0' width='64.0'/>
+  <SubTexture name='star64' x='584' y='0' height='64.0' width='64.0'/>
+  <SubTexture name='circle' x='650' y='0' height='64.0' width='64.0'/>
+  <SubTexture name='circle_blur' x='716' y='0' height='64.0' width='64.0'/>
+  <SubTexture name='enemy_bullet' x='0' y='454' height='40.0' width='40.0'/>
+  <SubTexture name='particle_low' x='66' y='388' height='32.0' width='32.0'/>
+  <SubTexture name='little_star' x='0' y='496' height='16.0' width='16.0'/>
+  <SubTexture name='white' x='18' y='496' height='16.0' width='16.0'/>
+</TextureAtlas>

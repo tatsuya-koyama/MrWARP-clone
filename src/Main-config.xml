@@ -1,0 +1,31 @@
+﻿<flex-config>
+    <use-network>false</use-network>
+
+    <default-size>
+        <width>320</width>
+        <height>480</height>
+    </default-size>
+    <default-background-color>0x000000</default-background-color>
+    <default-frame-rate>30</default-frame-rate>
+
+    <default-script-limits>
+        <max-recursion-depth>65535</max-recursion-depth>
+        <max-execution-time>4</max-execution-time>
+    </default-script-limits>
+
+    <compiler>
+        <incremental>true</incremental>
+        <warn-duplicate-variable-def>false</warn-duplicate-variable-def>
+    </compiler>
+
+    <metadata>
+        <title>MrWARP</title>
+        <description>Action Game</description>
+        <publisher>Tatsuya Koyama</publisher>
+        <creator>Tatsuya Koyama</creator>
+        <language>JP</language>
+    </metadata>
+
+    <benchmark>true</benchmark>
+    <static-link-runtime-shared-libraries>true</static-link-runtime-shared-libraries>
+</flex-config>
