@@ -4,9 +4,11 @@ Mr.WARP is a small shooter video game developed by Tatsuya Koyama.
 It is designed for benchmarking of TK's game framework **tkFramework**.
 
 Mr.WARP is written in ActionScript3.0. Its architecture consists of **Adobe AIR**,
-**Starling Framework**, and tkFramework. It runs on cross-platform including
+[**Starling Framework**][1], and tkFramework. It runs on cross-platform including
 web browser with FlashPlayer11 installed, ios devices (iPhone / iPod touch / iPad),
 and Android devices with AIR runtime app installed.
+
+[1]: http://gamua.com/starling/
 
 ## Build Steps
 
